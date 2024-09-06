@@ -19,7 +19,6 @@ ssh-keygen -t rsa -C "your_email@example.com"
 ```
 
 ### 1.2 查看密钥，添加密钥到GitHub
-![](https://github.com/timesun135/notebook/blob/master/2024-9-6/%E5%9B%BE%E7%89%87/1.jpg)
 
 <img src="https://github.com/timesun135/notebook/blob/master/2024-9-6/%E5%9B%BE%E7%89%87/1.jpg"  style="zoom:50%;" alt="" title=""  />
 
