@@ -1,4 +1,4 @@
- @[TOC]
+[TOC]
 
 # git链接GitHub仓库
 
