@@ -1,2 +1,0 @@
-https://blog.csdn.net/ingenuou_/article/details/107452638
-删除github上的一个仓库或者仓库里面的某个文件
