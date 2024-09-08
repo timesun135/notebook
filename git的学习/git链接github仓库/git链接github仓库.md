@@ -20,7 +20,7 @@ ssh-keygen -t rsa -C "your_email@example.com"
 
 ### 1.2 查看密钥，添加密钥到GitHub
 
-<img src="https://github.com/timesun135/notebook/blob/master/2024-9-6/%E5%9B%BE%E7%89%87/1.jpg"  style="zoom:50%;" alt="" title=""  />
+<img src="https://github.com/timesun135/notebook/blob/master/git%E7%9A%84%E5%AD%A6%E4%B9%A0/git%E9%93%BE%E6%8E%A5github%E4%BB%93%E5%BA%93/%E5%9B%BE%E7%89%87/1.jpg?raw=true"  style="zoom:50%;" alt="" title=""  />
 
 ```bash
 在电脑c盘中找到.ssh文件夹，打开id_rsa.pub文件，复制里面的内容
